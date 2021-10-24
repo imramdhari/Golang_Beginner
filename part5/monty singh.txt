@@ -1,0 +1,6 @@
+Bill Breakdown: 
+tea:                      $5.99 
+coffee:                   $5.99 
+tip:                      $60.00
+
+total:                    $71.98
